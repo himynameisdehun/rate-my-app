@@ -11,11 +11,11 @@ ext {
     libraryDescription = 'A helper to increment store\'s ratings by displaying a rate dialog at the right time.'
 
     siteUrl = 'https://github.com/himynameisdehun/rate-my-app'
-    gitUrl = 'https://github.com/nhimynameisdehun/rate-my-app.git'
+    gitUrl = 'https://github.com/himynameisdehun/rate-my-app.git'
 
     libraryVersion = '1.0.0'
 
-    developerId = 'Dehun'
+    developerId = 'dehun'
     developerName = 'Michael Fabozzi'
     developerEmail = 'dehun.inc@gmail.com'
 
