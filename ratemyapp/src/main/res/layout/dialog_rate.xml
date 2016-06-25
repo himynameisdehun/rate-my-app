@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ratemyapp="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/shape_dialog">
+
+    <TextView
+        android:id="@+id/textview_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:textSize="20sp"
+        android:textColor="@color/default_tint"/>
+
+    <TextView
+        android:id="@+id/textview_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="24dp"
+        android:textSize="18sp"
+        android:textColor="@color/text_grey"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="8dp"
+        android:layout_gravity="bottom">
+
+        <com.dehun.ratemyapp.TypefacedButton
+            android:id="@+id/button_rate"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:minWidth="64dp"
+            android:padding="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_alignParentRight="true"
+            android:text="@string/button_rate"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textColor="@color/default_tint"
+            android:textAllCaps="true"
+            android:background="@drawable/selector_dialog_button"
+            ratemyapp:typeface="Roboto-Medium.ttf"
+            android:stateListAnimator="@null"/>
+
+        <com.dehun.ratemyapp.TypefacedButton
+            android:id="@+id/button_later"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:minWidth="64dp"
+            android:padding="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_toLeftOf="@+id/button_rate"
+            android:text="@string/button_later"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textColor="@color/default_tint"
+            android:textAllCaps="true"
+            android:background="@drawable/selector_dialog_button"
+            ratemyapp:typeface="Roboto-Medium.ttf"
+            android:stateListAnimator="@null"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

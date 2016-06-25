@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Zero/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_7c430a258839391ad0975d1d99417c1b2991622b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a536f14778f56b93b26d69d945b7cdcf8732fd5c">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d83b3baedaf8d15e446ff9eb6f3947f9e614d24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a3431038b96f65134310e71a9a5758a5bccf70da">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_44dd9d131260de7ec287f05660a9b8d3a9ff94dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_6547039683534d128dbc168ef4456ad36b96a241/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_df56f66fb81661285a756fd2b839e6f5924b29dd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_0c02eb5c4e0a7cb4fd02611f713fe90152ad03f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_a08353308b9367a79279bb952138c96584c865ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Zero/Desktop/LibraryTester/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_1186429603ce66ee4ecedb89176e1332da3d4428/classes.dex" />
+    </item>
+
+</items>

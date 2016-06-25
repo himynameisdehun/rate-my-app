@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_later">dopo</string>
+    <string name="button_never">mai</string>
+    <string name="button_rate">valuta</string>
+    <string name="dialog_content">Aiutaci a crescere, valutaci su Google Play! La tua opinione è molto apprezzata e significherebbe molto per noi.</string>
+    <string name="dialog_title">Mostraci il tuo amore</string>
+</resources>
