@@ -6,7 +6,7 @@ ext {
 
     publishedGroupId = 'com.dehun.library'
     libraryName = 'rate-my-app'
-    artifact = 'rate-my-app'
+    artifact = 'ratemyapp'
 
     libraryDescription = 'A helper to increment store\'s ratings by displaying a rate dialog at the right time.'
 
