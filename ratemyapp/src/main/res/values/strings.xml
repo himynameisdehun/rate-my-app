@@ -1,9 +1,7 @@
 <resources>
-    <string name="app_name" translatable="false">Rate My App</string>
-    <string name="dialog_title">Show us your love</string>
-    <string name="dialog_content">Help us grow, rate us on Google Play! Your feedback is very appreciated and would mean so much for us.</string>
-    <string name="button_rate">rate</string>
-    <string name="button_later">later</string>
-    <string name="button_never">never</string>
-    <string name="app_link_prefix" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="ratemyapp_dialog_title">Show us your love</string>
+    <string name="ratemyapp_dialog_content">Help us grow, rate us on Google Play! Your feedback is very appreciated and would mean so much for us.</string>
+    <string name="ratemyapp_button_rate">rate</string>
+    <string name="ratemyapp_button_later">later</string>
+    <string name="ratemyapp_app_link_prefix" translatable="false">https://play.google.com/store/apps/details?id=</string>
 </resources>
