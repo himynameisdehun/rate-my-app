@@ -141,10 +141,10 @@ public class RateHelper {
         launchToAllowShow = DEFAULT_LAUNCH_TO_ALLOW_SHOW;
         maxShow = DEFAULT_MAX_SHOW;
         daysInterval = DEFAULT_DAYS_INTERVAL;
-        dialogTitle = mContext.getResources().getString(R.string.dialog_title);
-        dialogContent = mContext.getResources().getString(R.string.dialog_content);
+        dialogTitle = mContext.getResources().getString(R.string.ratemyapp_dialog_title);
+        dialogContent = mContext.getResources().getString(R.string.ratemyapp_dialog_content);
         tintColor = mContext.getResources().getColor(R.color.default_tint);
-        storeLink = mContext.getResources().getString(R.string.app_link_prefix).concat(mContext.getPackageName());
+        storeLink = mContext.getResources().getString(R.string.ratemyapp_app_link_prefix).concat(mContext.getPackageName());
     }
 
     /**
