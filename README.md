@@ -54,7 +54,7 @@ public void shouldShowRateDialog()
 # Installation
 To use it you just have to add this in your build.gradle dependencies:
 
-```compile 'com.dehun.library:ratemyapp:1.0.0'```
+```compile 'com.dehun.library:ratemyapp:1.0.1'```
 
 Remember to use jCenter as repository.
 
